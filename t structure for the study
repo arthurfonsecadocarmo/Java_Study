@@ -1,0 +1,21 @@
+[33mcommit 3b3d499dde894f293e0fd6b15d99e2a63e9d6bc4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: arthurfonsecadocarmo <arthur.fonsecarmo@gmail.com>
+Date:   Fri Sep 11 14:03:03 2026 -0300
+
+    Configured first structure for the study
+    
+    .gitignore created, Foundations, src directory and Main.Java
+
+[33mcommit c36369081015e1d275a5fbb474fa2e36336b1413[m
+Author: Arthur Fonseca <arthur.fonsecarmo@gmail.com>
+Date:   Fri Sep 11 13:31:16 2026 -0300
+
+    Update README with additional sections and formatting
+    
+    Added sections for contents, goals, and teaching materials.
+
+[33mcommit cb2eac0b99a294013093603bf65d6e120b471db0[m
+Author: Arthur Fonseca <arthur.fonsecarmo@gmail.com>
+Date:   Fri Sep 11 13:23:45 2026 -0300
+
+    Initial commit
